@@ -3,5 +3,10 @@
 
 |Integrantes|Rol|
 |:---|---:|
-|Goran Acurio|jefecito|
+|Goran Acurio||
 |:---|---:|
+|Jorge Briceño|Moderador junior|
+|:---|---:|
+|Bonnie Cuentas||
+|:---|---:|
+|Gustavo Fernandez Baca||
