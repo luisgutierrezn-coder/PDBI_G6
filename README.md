@@ -1,4 +1,4 @@
-# GRUPO-6-BIODISEÑO
+# Proyecto de Biodiseño - Grupo 6
 
 
 Integrantes:
