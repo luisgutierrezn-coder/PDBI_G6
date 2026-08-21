@@ -2,7 +2,7 @@
 
 
 |Integrantes|Rol|
-|:---|---:|
+|:---|:---|
 |Goran Acurio||
 |Jorge Briceño|Moderador junior|
 |Bonnie Cuentas||
