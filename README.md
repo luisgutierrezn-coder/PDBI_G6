@@ -1,4 +1,4 @@
-# GRUPO-6--BIODISEÑO
+# GRUPO-6-BIODISEÑO
 
 #saquen a gustabo
 
