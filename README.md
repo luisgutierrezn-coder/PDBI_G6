@@ -1,6 +1,7 @@
-# Proyecto de Biodiseño - Grupo 6
+# GRUPO-6-BIODISEÑO
 
 
-Integrantes:
-Bonnie Tuercas Ferreñan
-Goran Acurio 
+|Integrantes|Rol|
+|:---|---:|
+|Goran Acurio|jefecito|
+|:---|---:|
