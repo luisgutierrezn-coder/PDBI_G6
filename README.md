@@ -3,8 +3,8 @@
 
 |Integrantes|Rol|
 |:---|:---|
-|Goran Acurio||
+|Goran Acurio|Moderador|
 |Jorge Briceño|Moderador junior|
 |Bonnie Cuentas||
-|Gustavo Fernandez Baca||
+|Gustavo Fernandez Baca|Extra|
 |Luis Gutierrez||
