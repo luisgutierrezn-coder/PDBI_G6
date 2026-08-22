@@ -3,8 +3,8 @@
 
 |Integrantes|Rol|
 |:---|:---|
-|Goran Acurio|Electrónica|
-|Jorge Briceño|programacion|
-|Bonnie Cuentas|Modelado|
+|Goran Acurio|Líder electrónica|
+|Jorge Briceño|Programacion|
+|Bonnie Cuentas|Programacion|
 |Gustavo Fernandez Baca|Modelado|
 |Luis Gutierrez|Electronica|
