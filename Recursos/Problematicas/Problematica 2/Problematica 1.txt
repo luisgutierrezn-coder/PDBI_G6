@@ -1,0 +1,2 @@
+Problemática:
+Dificultad en la detección de los episodios de Freezing of Gait (FoG) en pacientes con enfermedad de Parkinson
