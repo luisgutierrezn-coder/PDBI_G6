@@ -1,2 +1,8 @@
 Problemática:
 Necesidad de cuantificacion de mejora en rehabilitacion de pacientes con perdida motora en manos
+
+
+Data:
+    Pushing the Rehabilitation Boundaries: Hand Motor Impairment Can Be Reduced in Chronic Stroke
+      https://pmc.ncbi.nlm.nih.gov/articles/PMC7457456/
+Hand impairment, in particular, is often present in the chronic stage after stroke, frequently manifesting itself as both a decrease in finger strength, loss of dexterity (negative signs), and abnormal hand flexion synergy, characterized by a pattern of involuntary motor activation resulting in finger and hand flexion (positive signs).4,5 Indeed, one of the most prominent deficits in hand dexterity is increased finger enslaving, or unintended force produced by the uninstructed fingers. 
