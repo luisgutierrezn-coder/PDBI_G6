@@ -3,8 +3,8 @@
 
 |Integrantes|Rol|
 |:---|:---|
-|Goran Acurio|Moderador|
-|Jorge Briceño|Moderador junior|
-|Bonnie Cuentas||
-|Gustavo Fernandez Baca|Extra|
-|Luis Gutierrez||
+|Goran Acurio|Electrónica|
+|Jorge Briceño|programacion|
+|Bonnie Cuentas|Modelado|
+|Gustavo Fernandez Baca|Modelado|
+|Luis Gutierrez|Electronica|
