@@ -1,0 +1,113 @@
+{
+  "fuente": "GrabMyo 1.1.0 (sanos, días 1, 8 y 29)",
+  "fecha": "2026-10-30",
+  "personas": 43,
+  "z": 1.96,
+  "reps_elegir": [
+    1,
+    2,
+    3
+  ],
+  "separacion_min": 2,
+  "indicadores": {
+    "amplitud_cerrar": {
+      "personas": 41,
+      "log": true,
+      "sentido": 1,
+      "sem": 0.34845412000146014,
+      "mdc95": 0.9658655430468599,
+      "icc": 0.5970472023235802,
+      "cobertura": 0.9380530973451328,
+      "sube_minimo_pct": 162.70605066630642,
+      "baja_minimo_pct": 61.93464149517376
+    },
+    "amplitud_abrir": {
+      "personas": 43,
+      "log": true,
+      "sentido": 1,
+      "sem": 0.2072378366873544,
+      "mdc95": 0.5744339761890296,
+      "icc": 0.7545128402968403,
+      "cobertura": 0.9291338582677166,
+      "sube_minimo_pct": 77.61249133480625,
+      "baja_minimo_pct": 43.697653668121674
+    },
+    "amplitud_pinza": {
+      "personas": 40,
+      "log": true,
+      "sentido": 1,
+      "sem": 0.3626998217312235,
+      "mdc95": 1.0053526136466961,
+      "icc": 0.5910710567785624,
+      "cobertura": 0.9326923076923077,
+      "sube_minimo_pct": 173.28707504695336,
+      "baja_minimo_pct": 63.40844147758579
+    },
+    "cocontraccion_cerrar": {
+      "personas": 41,
+      "log": true,
+      "sentido": -1,
+      "sem": 0.4914468411607393,
+      "mdc95": 1.36222114439167,
+      "icc": 0.4630964794653768,
+      "cobertura": 0.9557522123893806,
+      "sube_minimo_pct": 290.4856927716603,
+      "baja_minimo_pct": 74.3908671044509
+    },
+    "cocontraccion_abrir": {
+      "personas": 43,
+      "log": true,
+      "sentido": -1,
+      "sem": 0.4621804772601223,
+      "mdc95": 1.2810989224424563,
+      "icc": 0.2557432791622632,
+      "cobertura": 0.905511811023622,
+      "sube_minimo_pct": 260.0594326182847,
+      "baja_minimo_pct": 72.22680731544268
+    },
+    "relacion_abrir_cerrar": {
+      "personas": 41,
+      "log": true,
+      "sentido": 1,
+      "sem": 0.36980549050542505,
+      "mdc95": 1.0250485226211017,
+      "icc": 0.5481749603199128,
+      "cobertura": 0.9009009009009009,
+      "sube_minimo_pct": 178.72307010239422,
+      "baja_minimo_pct": 64.12209439166155
+    },
+    "relacion_pinza_cerrar": {
+      "personas": 35,
+      "log": true,
+      "sentido": 1,
+      "sem": 0.5018750519804209,
+      "mdc95": 1.39112667004973,
+      "icc": 0.524995698327374,
+      "cobertura": 0.9139784946236559,
+      "sube_minimo_pct": 301.9376013456351,
+      "baja_minimo_pct": 75.12051630272636
+    },
+    "inestabilidad_cerrar": {
+      "personas": 43,
+      "log": true,
+      "sentido": -1,
+      "sem": 0.48582725332350074,
+      "mdc95": 1.3466444416163055,
+      "icc": 0.311421308385832,
+      "cobertura": 0.9302325581395349,
+      "sube_minimo_pct": 284.45034067137124,
+      "baja_minimo_pct": 73.98883823971425
+    },
+    "inestabilidad_abrir": {
+      "personas": 43,
+      "log": true,
+      "sentido": -1,
+      "sem": 0.404625873714247,
+      "mdc95": 1.1215657006557527,
+      "icc": 0.24889946794063914,
+      "cobertura": 0.9302325581395349,
+      "sube_minimo_pct": 206.96566061104465,
+      "baja_minimo_pct": 67.42306621498301
+    }
+  }
+}
